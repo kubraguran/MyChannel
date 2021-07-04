@@ -1,0 +1,176 @@
+
+
+.navbar {
+    background-color:honeydew;
+   
+}
+.profile {
+    color: honeydew;
+   display: inline-flex;
+text-decoration-style: none;
+}
+#profilepic {
+    border-radius: 50%;
+   
+}
+.FixedHeightContainer
+{
+  
+  float:left;
+  height: 100%;
+  width:350px; 
+  padding:3px;
+  margin-left: 10px;
+  background:white;
+  transition: top 0.3s;
+ 
+}
+.navbar-right1 {
+     height:100%;
+     overflow:auto;
+     background:honeydew;
+
+}
+.navbar-right li {
+    list-style-type: none;
+    padding-top: 20px;
+
+  
+    
+}
+.navbar-right li a {
+    color:rgb(58, 52, 52);
+    font-size: medium;
+  text-decoration: none;   
+}
+
+.second li {
+    list-style-type: none;
+    padding-top: 20px;
+  
+}
+.second li a {
+    color:rgb(58, 52, 52);
+    font-size: medium;
+    text-decoration: none; 
+    position: relative;
+}
+#movies {
+    display:flex;
+  margin-right:30px;
+
+}
+.third {
+    list-style-type: none;
+    padding-top: 20px;
+}
+.third li a {
+    color:rgb(58, 52, 52);
+    font-size: medium;
+    text-decoration: none;  
+}
+
+.picText {
+    display: inline-flex;
+    margin-left: 130px;
+    margin-top: -40px;
+}
+
+.main-container-sm {
+margin-right: auto;
+margin-left: auto;
+
+
+
+}
+#carouselExampleCaptions{
+    position: absolute; 
+    float: left;
+    margin-left: 450px;
+    margin-top:10px;
+    width: 60%;
+    
+   
+   
+} 
+#flow{
+    width: 350px;
+    display: flex;
+    padding-top: 440px;
+    padding-left:50px;
+  
+}
+
+.card {
+    margin-left: 850px;
+     top:-490px;
+     max-width: 400px;
+}
+h6 {
+    color: black;
+    margin:0;
+    padding:30px;
+    display: inline-flex;
+    padding-right: 10px;
+    padding-bottom:-30px;
+}
+
+
+
+
+#flowContainer {
+    position: absolute;
+    margin-top: -450px;
+    padding-top:10px;
+    background-color: black;
+    margin-left: 800px;
+    margin-right: 20px;
+    width: auto;
+   
+
+    
+}
+#sideCard{
+    display: inline-block;
+    margin-top: -270px;
+    padding-left: -12px;
+    padding-top:55px;
+}
+
+#videos {
+display: block;
+padding-top: 430px;
+
+
+}
+#lastpart{
+display: flex;
+padding-left: 100px;
+padding-top: 50px;
+}
+
+.form-select{
+  display: fixed;
+  max-width: 150px;
+  margin-top: 30px;
+  margin-left: 450px;
+}
+
+#info{
+    width: auto;
+    display: fixed;
+  margin-top: -60px;
+  margin-left: 750px;
+}
+ .icon2{
+   flex-direction: column;     
+   display: block;
+   margin-top: -50px;
+   margin-right:10px;
+ }
+.text2{
+    display:inline-flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-top:-20px;
+}
